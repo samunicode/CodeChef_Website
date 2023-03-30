@@ -1,6 +1,6 @@
 # CodeChef_Website
 
-This is a website for CodeChef, a platform for competitive programming and learning. The website is built using HTML, CSS and JavaScript.
+This is a website for CodeChef MUJ Community, a platform for competitive programming and learning. The website is built using HTML, CSS and JavaScript.
 
 ## Features
 
